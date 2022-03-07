@@ -1,0 +1,48 @@
+/* MAIN BODY */
+body.main {
+  background-color: #252a34;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+}
+
+/* HEADER */
+div.header {
+  height: 200px;
+  color: #ff2e63;
+  font-size: 2.5rem;
+  font-family: "Satisfy";
+}
+
+/* PLAYERS */
+div.players {
+  color: #08d9d6;
+  font-size: 1.2rem;
+  font-family: "Sacramento";
+}
+h2.player1-name {
+  width: 100px;
+  float: left;
+  padding-right: 35px;
+}
+h2.player2-name {
+  float: right;
+  width: 100px;
+  padding-left: 35px;
+}
+
+/* DICE IMAGES */
+img.player1-dice {
+  padding-right: 30px;
+}
+img.player2-dice {
+  padding-left: 30px;
+}
+
+/* FOOTER */
+div.footer {
+  font-size: 2rem;
+  color: #ffc300;
+  font-family: "Righteous";
+  /* padding-top: 2rem; */
+}
