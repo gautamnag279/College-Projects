@@ -1,0 +1,64 @@
+/* OVERALL STYLE */
+body.main {
+  text-align: center;
+  display: grid;
+  background-color: #1E2022;
+}
+
+/* HEADER STYLE */
+h1.header {
+  margin-top: 1.2%;
+  margin-bottom: 2%;
+  font-size: 6rem;
+  font-family: 'Comforter Brush', cursive;
+  color: #FF1700;
+}
+
+/* BUTTON STYLE */
+div.play {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+button.button {
+  border-width: 5px;
+  font-family: 'Special Elite';
+  color: #ECECEC;
+  background-color: #121212;
+  margin: 5px 5px 5px 5px; 
+  border-radius: 15px;
+  font-size: 25px;
+  height: 125px;
+  width: 150px;
+}
+
+button.q {border-color: #FEF1E6;}
+button.w {border-color: #FEF1E6;}
+button.e {border-color: #FEF1E6;}
+button.r {border-color: #FEF1E6;}
+
+button.p {border-color: #2D31FA}
+button.o {border-color: #2D31FA}
+button.i {border-color: #2D31FA}
+button.u {border-color: #2D31FA}
+
+button.a {border-color: #49FF00;}
+button.s {border-color: #49FF00;}
+button.d {border-color: #49FF00;}
+button.f {border-color: #49FF00;}
+
+button.l {border-color: #DA1212;}
+button.k {border-color: #DA1212;}
+button.j {border-color: #DA1212;}
+button.h {border-color: #DA1212;}
+
+/* FOOTER STYLE */
+footer {
+  color: #ECECEC;
+  font-family: "consolas";
+  font-size: 1rem;
+  text-shadow: 1px 1px #151D3B;
+  padding-top: 1.5%;
+}
+a.github{
+  color: #fcf700;
+}
